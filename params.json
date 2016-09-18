@@ -1,0 +1,6 @@
+{
+  "name": "Epic-Item-API",
+  "tagline": "A simple API to quickly manipulate ItemStacks.",
+  "body": "# Epic-Item-API\r\n\r\nWith this API you can easily manipulate ItemStacks.\r\nFor example, if you want to change an item's name and lore do this:\r\n\r\nnew EItemStack(stack).setDisplayName(\"FooBar\").setLore(\"Foo\", \"Bar\");",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
