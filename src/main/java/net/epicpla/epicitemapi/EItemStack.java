@@ -1,5 +1,5 @@
 /*
- * This file is part of Epic Item API, licensed under the MIT License (MIT).
+ * This file is part of Epic-Item-API, licensed under the MIT License (MIT).
  *
  * Copyright (c) Epic Planet Minecraft Server <https://epicpla.net>
  *
