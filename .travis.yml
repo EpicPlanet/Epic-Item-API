@@ -5,6 +5,6 @@ deploy:
   provider: releases
   api_key:
     secure: L2wOiBgESwMEG+ATlBzdgzss6tOLkSrMDDaEissqkGvMvMyG14P3HCn6cyE4WlRmA/c6bl8RDJKiU1r4lNvHeDQaAMjixJC5+4aRmUu14NoEd0tIJVqYj4mwLuPocOaNSZeQUu2TjnsBVcnNtrIAyWMzCS/tj8QSpwH5EliX84RUlQpEsds4JP1M1YydefGUfieMD2Wgs55UHWJ3komsQ3LER2HnOZ7ihKOLG1wcvq8gz+/NMytjZgTJUfxGezDzpNKUwoTm5eXnrqoIjDkzLbAn1CZfQUbw9e9z0A8s38wfCgE6XE4CEyhFI6uxftKkaHS+2NHchoJnZRJ6wZtfmieUsU8l6kMOjh66gRru2aDC87uumhbufUH75+XpM2yvOT/NgHlz5AXIBJP/Ue1GJtLwGdc2J2uqvbiLQaBKd3whjbWFV0bZGAZT0x6wzENZx4GCPxyQk4hqcv/+YwJ1rEFThWAKR11TmbpaT/xLTtiqwylrorc3QrCJarsKDyR+aI13k30V1q1f8Lj/sbD+9kqpnCl4MHnw5mCB0k0BQtwf+NLSgZyqLr7bL6xVKak3a5WqJ9Rmytl2WHiWe4dWR6lZCnazJzHTteILyrucfwoswdqZmW7ha778veJeK8M5rqwn7KrNzpyvVwLYSgAkmzQ8Ml06gXQ6KI6y9spRfqE=
-  file: target/epic-item-api-1.0.0.jar
+  file: target/epic-item-api-1.0.1.jar
   on:
     tags: true
